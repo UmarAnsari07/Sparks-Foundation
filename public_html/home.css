@@ -1,0 +1,40 @@
+body {
+    background: url("img/donation.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.navbar{
+    background-color: cadetblue;
+    
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color:black;
+}
+
+nav a { color: black; }
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    overflow: hidden;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+    color:white;
+}
+.footer{
+padding: 10px 0;
+background-color: cadetblue;
+color:black;
+bottom: 0;
+width: 100%;
+margin-top: -10px;
+}

@@ -1,0 +1,42 @@
+*{
+            background-image: url("https://media.istockphoto.com/photos/phone-and-email-icons-on-wooden-cubes-with-contact-us-text-on-blue-picture-id1271752802?b=1&k=20&m=1271752802&s=170667a&w=0&h=sMEPVY49FAy2UHkhyQLWDHlAhYsR2F2NDkNlSEteO3s=");
+            background-attachment: fixed;
+            background-repeat: No-repeat;
+            background-size:cover;
+            font-family: Arial;
+            color: white;
+            margin:0;
+            padding:10px;
+        }
+
+        /* img{
+            height:745px;
+            width:1535px;
+        } */
+
+
+        body{
+            margin: 6px 15px;
+            padding:8px;
+        }
+
+        .container{
+            background-color: #f2f2f2;
+            padding:5px 20px 65px 5px;
+            border: 1px solid lightgray ;
+            border-radius: 4px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        textarea{
+            padding:12px;
+            border:1px solid;
+        }
+
+        input[type="submit"]{
+            background-color:green;
+            color:white;
+            padding:10px 16px;
+            cursor: pointer;
+        }

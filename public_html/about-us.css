@@ -1,0 +1,21 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: "-webkit-pictograph";
+   background: url('https://media.istockphoto.com/photos/little-boy-looking-out-of-the-window-on-a-snowy-day-picture-id892436178?b=1&k=20&m=892436178&s=170667a&w=0&h=oLGMcI9saALZ2J3su0wa_xM6F5fDgYcQnLfLboW2n8o=');
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover; 
+}
+
+.about{
+    padding-left: 30px;
+    padding-top: 100px;
+    text-align: left;
+    color: black;
+
+}
+
+h1{
+    color:cadetblue;
+}
